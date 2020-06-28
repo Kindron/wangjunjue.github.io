@@ -47,6 +47,17 @@
   box-sizing: border-box;
 }
 
+.article_title {
+  font-size: xx-large;
+}
+.article_author {
+  font-size: x-large;
+}
+.article_journal{
+  font-size: x-large;
+  font-style: italic;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
