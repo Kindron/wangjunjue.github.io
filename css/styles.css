@@ -49,13 +49,16 @@
 
 .article_title {
   font-size: xx-large;
+  vertical-align : top;
 }
 .article_author {
   font-size: x-large;
+  vertical-align : top;
 }
 .article_journal{
   font-size: x-large;
   font-style: italic;
+  vertical-align : top;
 }
 
 html {
@@ -6624,6 +6627,8 @@ button.bg-dark:focus {
 }
 
 .flex-shrink-0 {
+  vertical-align : top;
+  margin-top: 0.5em;
   flex-shrink: 0 !important;
 }
 
